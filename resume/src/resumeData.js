@@ -15,7 +15,7 @@ const ResumeData = {
       link: 'https://github.com/vikpande'
     },
     {
-      label: 'StackOverflow',
+      label: 'Stack Overflow',
       link: 'https://stackoverflow.com/users/story/6938475'
     },
     {
