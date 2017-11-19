@@ -33,12 +33,12 @@ const ResumeData = {
   ],
 
   skillsList: [
-    'Architechture - Good understanding of the modern architecture patterns and ability to apply them to develop applications', 
-    'Transformation and Change - DevOps practitioner involved in evaluating and implementing modern tooling, technology and processes for Continual improvement',
-    'Continuous Delivery - Multiple years of experience in implementing Continuouls Delivery practices within teams and organization', 
+    'Architecture - Good understanding of the modern architecture patterns and ability to apply them to develop applications', 
+    'Transformation and Change - DevOps practitioner involved in evaluating and implementing modern tooling, technology and processes for continual improvement',
+    'Continuous Delivery - Multiple years of experience in implementing Continuous Delivery practices within teams and organization', 
     'Relationship management - Strong interpersonal skills to create a conducive environment and connect with people across different levels',    
-    'React & Nodejs - Developed multiple web-app, mobile app and PWA using React framework & Nodejs', 
-    'Java - Banking app Java as back-end and Polymer as front-end consuming external API',
+    'React & Nodejs - Developed multiple web-apps, mobile app and PWA using React framework & Nodejs', 
+    'Java - Developed a banking app with Java as back-end and Polymer as front-end consuming external API',
     'Containers - Prefer containerizing my applications for better management and good developer experience using Docker',
     'Kubernetes - A natural choice for automating deployment, scaling and managing applications',
     'Cloud - Experience in deploying applications on Azure, Now.sh, Heroku, AWS, among others',
@@ -54,7 +54,7 @@ const ResumeData = {
         },
         {
           id: 2,
-          value: `Internal portal for Continuous Delivery Metrics - Developed an internal portal capturing the continuous delivery metrics such as lead time, cycle time to measure the effectiveness of the projects`
+          value: `Continuous Delivery portal - Developed an internal portal capturing the continuous delivery metrics such as lead time, cycle time to measure the effectiveness of the projects`
         },
         {
           id: 3,
@@ -62,21 +62,21 @@ const ResumeData = {
         },
         {
           id: 4,
-          value: `Consulting - Provided consulting services to a new "lean start up team" on development, quality, security and public cloud infrastructure (Azure)`
+          value: `Consulting - Provided consulting services to a new "lean startup team" on development, quality, security and public cloud infrastructure (Azure)`
         }
       ]
     },
 
     {
-      company: 'ING Bank - (Apr 2015 to May 2016',
+      company: 'ING Bank - (Apr 2015 to May 2016)',
       projects: [
         {
           id: 1,
-          value: `Coaching teams in the adoption of Continuous Delivery and agile development processes within the Security Guild team at ING. Set up a new team and co-ordinating with multple stakeholders in the department`
+          value: `Coaching teams in the adoption of Continuous Delivery and agile development processes within the Security Guild team at ING. Set up a new team and coordinating with multiple stakeholders in the department`
         },
         {
           id: 2,
-          value: `Development of a dashboard tool for monitoring the maturity and performance of teams in adoption of Continuous Delivery Agile development processes`
+          value: `Development of a dashboard tool for monitoring the maturity and performance of teams in adoption of Continuous Delivery and Agile development processes`
         },
         ]
     },
@@ -86,7 +86,7 @@ const ResumeData = {
       projects: [
         {
           id: 1,
-          value: `Managed multiple application devepopment and maintenance projects in different roles such as Technical Lead, Business Analyst & Technical Manager `
+          value: `Managed multiple application development and maintenance projects in different roles such as Technical Lead, Business Analyst & Technical Manager `
         },
         {
           id: 2,
